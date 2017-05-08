@@ -1,5 +1,5 @@
+import numpy as np
 def reLU(input):
-    
     # Calculate the value for the output of the reLU function: output
     output = max(0, input)
     
@@ -17,7 +17,6 @@ def softplus(input):
 
 
 def predict_with_one_layer(input_data_row, weights):
-
     # Calculate node 0 value
     node_0_input =  (input_data_row * weights['node_0']).sum()
     node_0_output = reLU(node_0_input)
