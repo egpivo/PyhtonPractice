@@ -1,3 +1,3 @@
-# 1. Practice Python from [DataCamp](https://www.datacamp.com/home)
+## 1. Practice Python from [DataCamp](https://www.datacamp.com/home)
 
-# 2. Useful toolkit
+## 2. Useful toolkit
